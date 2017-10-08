@@ -1,2 +1,3 @@
 # franjo_pong
-Pong with the head of professor Franjo Weissing
+
+Pong with the head of professor Franjo Weissing.
